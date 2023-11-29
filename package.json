@@ -7,7 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@valleywood/reproduction-app-dynamic-component-hydration-error-package": "^1.0.0",
+    "reproduction-app-dynamic-component-hydration-error-package": "1.0.23",
     "next": "canary",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

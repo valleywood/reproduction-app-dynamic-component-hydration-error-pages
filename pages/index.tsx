@@ -1,6 +1,5 @@
 /** Add your relevant code here for the issue to reproduce */
-import StartPage from '@valleywood/reproduction-app-dynamic-component-hydration-error-package/index';
+import { Page } from 'reproduction-app-dynamic-component-hydration-error-package';
 export default function Home() {
-  console.log('StartPage');
-  return <StartPage />;
+  return <Page />;
 }
